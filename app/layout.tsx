@@ -11,8 +11,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "ChillWay",
-  description: "ChillWay 的个人站点",
+  title: "PeterQ",
+  description: "PeterQ 的个人站点",
   authors: [{ name: "ChillWay" }],
 };
 
