@@ -1,5 +1,5 @@
 ---
-title: 使用 Next.js 搭建个人博客
+title: npm版本踩坑记录
 date: 2024-05-07 22:03
 description: npm版本踩坑记录
 ---
