@@ -23,7 +23,7 @@ export default function Menu() {
         href="/"
         className="flex rounded-full overflow-hidden border shadow-md"
       >
-        <Image src="/avatar.png" alt="ChillWay" width={48} height={48} />
+        <Image src="/avatar.png" alt="PeterQ" width={48} height={48} />
       </Link>
       <ul className="flex px-3 bg-white rounded-full ring-1 ring-gray-100 shadow-lg shadow-gray-100">
         {tabs.map((item) => (
